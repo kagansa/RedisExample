@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KAAN\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj": {}
+    "C:\\Users\\KAAN\\Documents\\GitHub\\RedisExample\\RedisExample\\RedisExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KAAN\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj": {
+    "C:\\Users\\KAAN\\Documents\\GitHub\\RedisExample\\RedisExample\\RedisExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KAAN\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj",
+        "projectUniqueName": "C:\\Users\\KAAN\\Documents\\GitHub\\RedisExample\\RedisExample\\RedisExample.csproj",
         "projectName": "RedisExample",
-        "projectPath": "C:\\Users\\KAAN\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj",
+        "projectPath": "C:\\Users\\KAAN\\Documents\\GitHub\\RedisExample\\RedisExample\\RedisExample.csproj",
         "packagesPath": "C:\\Users\\KAAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KAAN\\source\\repos\\RedisExample\\RedisExample\\obj\\",
+        "outputPath": "C:\\Users\\KAAN\\Documents\\GitHub\\RedisExample\\RedisExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KAAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
